@@ -1,0 +1,23 @@
+{
+  "name": "ataturk-twitter-bot",
+  "version": "1.0.0",
+  "description": "1 Saatte bir Atatürk sözü yayınlayan  bt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favilances/twitter-ataturk-bot.git"
+  },
+  "author": "Favilances Maze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favilances/twitter-ataturk-bot/issues"
+  },
+  "homepage": "https://github.com/favilances/twitter-ataturk-bot#readme",
+  "dependencies": {
+    "ataturk-words": "^1.0.4",
+    "twit": "^2.2.11"
+  }
+}
